@@ -1,0 +1,8 @@
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\obj\Debug\6.4.csproj.AssemblyReference.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\obj\Debug\6.4.csproj.SuggestedBindingRedirects.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\obj\Debug\6.4.csproj.CoreCompileInputs.cache
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\bin\Debug\6.4.exe.config
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\bin\Debug\6.4.exe
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\bin\Debug\6.4.pdb
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\obj\Debug\6.4.exe
+C:\Users\SlavOn\source\repos\MaksymovSlava\6.4\obj\Debug\6.4.pdb
